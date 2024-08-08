@@ -35,3 +35,4 @@ var _updateCountry = (index, name) => {
 var _loading = () => {
   return _form().find(".loadingmask-message-content");
 };
+alert('ok')
